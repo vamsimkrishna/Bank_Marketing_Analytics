@@ -1,0 +1,11 @@
+job,customers,successes,success_rate_pct
+student,360,67,18.61
+retired,778,135,17.35
+unemployed,357,52,14.57
+unknown,70,10,14.29
+management,2566,292,11.38
+admin.,1334,134,10.04
+self-employed,405,38,9.38
+technician,1823,157,8.61
+housemaid,274,22,8.03
+services,923,62,6.72
